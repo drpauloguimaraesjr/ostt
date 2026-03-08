@@ -1,4 +1,4 @@
-# OSTT - Open Speech-to-Text
+Transcriçao de audio em tempo real ou via gravaçao. 
 
 **OSTT** is an interactive terminal-based audio recording and speech-to-text transcription tool. Record audio with real-time waveform visualization, automatically transcribe using multiple AI providers and models, and maintain a browsable history of all your transcriptions. Built with Rust for performance and minimal dependencies, ostt works seamlessly on **Linux and macOS**.
 
